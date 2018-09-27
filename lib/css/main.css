@@ -1,0 +1,30 @@
+.main-content {
+  margin: 0 auto;
+  height: 500px;
+  width: 1000px;
+  display: flex;
+}
+
+.box {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+.nathasha {
+  background-color: #85AEEE;
+}
+
+.austin {
+  background-color: #ED4068;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 30px;
+}
