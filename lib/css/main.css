@@ -5,6 +5,11 @@
   display: flex;
 }
 
+.austin {
+  background-color: #ED4068;
+  color: gray;
+}
+
 .box {
   width: 50%;
   height: 100%;
@@ -17,8 +22,10 @@
   background-color: #85AEEE;
 }
 
-.austin {
-  background-color: #ED4068;
+.cool-things {
+  height: 100%;
+  color: green;
+  margin: 10px;
 }
 
 h1 {
